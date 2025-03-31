@@ -14,25 +14,13 @@ This code was written by Léna Kläy. The project was carried out in collaborati
 
 ## Contents
 
-This repository contains the pdf of my first article, my PhD final presentation and two main folders:   
-
-`Determinist` to simulate the deterministic models (PDE, reaction-diffusion), 
-
-`Stochastic` to simulate the stochastic models (birth–death process with migration).  
-
-They always follow the same organisation inside:
+This repository contains various folders:
 
 1) `Functions` contains the code to run the simulations (.py), as well as a `README.rmd` file detailing each function,
 
 2) `Outputs` stores the results of the simulations,
 
-3) `Illustrations` contains the important figures, sometimes improved with Inkscape.
-
-4) `Migale` contains the code to run the heaviest simulations on the cluster Migale (INRAE, doi: 10.15454/1.5572390655343293E12) as well as some outputs of previous simulations.
-
-(only in the `Determinist` folder:)
+3) `Migale` contains the code to run the heaviest simulations on the cluster Migale (INRAE, doi: 10.15454/1.5572390655343293E12) as well as some outputs of previous simulations.
 
 5) `Mathematica` contains the mathematica files used in preliminary mathematical analyses.
-
-6) `Poster` contains some posters I presented during my PhD.
 
