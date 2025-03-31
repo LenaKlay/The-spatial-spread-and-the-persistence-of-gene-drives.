@@ -19,8 +19,3 @@ This repository contains various folders:
 1) `Functions` contains the code to run the simulations (.py), as well as a `README.rmd` file detailing each function,
 
 2) `Outputs` stores the results of the simulations.
-
-3) `Migale` contains the code to run the heaviest simulations on the cluster Migale (INRAE, doi: 10.15454/1.5572390655343293E12) as well as some outputs of previous simulations.
-
-5) `Mathematica` contains the mathematica files used in preliminary mathematical analyses.
-
