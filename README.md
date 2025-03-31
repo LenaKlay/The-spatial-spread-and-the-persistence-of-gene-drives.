@@ -1,4 +1,4 @@
-# The spatial spread and the persistence of gene drives are affected by demographic feedbacks, density~dependence and Allee effects
+# The spatial spread and the persistence of gene drives are affected by demographic feedbacks, density dependence and Allee effects
 
 ## Introduction
 
